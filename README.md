@@ -1,6 +1,15 @@
 # SnakeGame
 ![image](https://user-images.githubusercontent.com/95255489/155405521-04fc5270-ec72-4749-a6b1-ba0e03ef42ec.png)
 
+## Table of contents
+- [SnakeGame](#snakegame)
+  * [Description](#description)
+  * [Technology](#technology)
+  * [Installation](#installation)
+  * [License](#license)
+  * [Author Info](#author-info)
+  * [Inspiration](#inspiration)
+
 ## Description
 
 - This is my first project in Python. I started learning Python for my career and basic knowledge of different programming language. In this snake game, I learn how to use imports, basic syntax structure, while loop, if conditions and basic programming paradigms. 
